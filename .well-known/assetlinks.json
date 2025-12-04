@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mercurychains.app",
+      "sha256_cert_fingerprints":
+        ["D5:1E:9C:5D:0A:36:0C:18:ED:73:8C:56:CF:8F:B6:62:8A:68:80:3A:BF:60:4D:EB:D3:43:C5:42:AD:6C:4F:4C"]
+    }
+  }
+]
