@@ -1,0 +1,19 @@
+{
+  "webcredentials": {
+    "apps": [
+      "GPQYX67SG4.com.mercurychainsco.app"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "GPQYX67SG4.com.mercurychainsco.app",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
+
